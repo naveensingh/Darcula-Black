@@ -1,0 +1,11 @@
+{
+  "name": "DarculaBlack",
+  "dark": true,
+  "author": "Naveen Singh",
+  "editorScheme": "/DarculaBlack.xml",
+  "ui": {
+    "*": {
+      "background": "#202020"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+<scheme name="DarculaBlack" version="142" parent_scheme="Darcula">
+    <colors>
+        <option name="CONSOLE_BACKGROUND_KEY" value="202020" />
+        <option name="GUTTER_BACKGROUND" value="202020" />
+    </colors>
+    <attributes>
+        <option name="TEXT">
+            <value>
+                <option name="FOREGROUND" value="a9b7c6" />
+                <option name="BACKGROUND" value="202020" />
+                <option name="EFFECT_TYPE" value="5" />
+            </value>
+        </option>
+    </attributes>
+</scheme>

@@ -1,0 +1,33 @@
+<idea-plugin>
+  <id>com.linuxauthority.plugin.darcula.black</id>
+  <name>Darcula-Black</name>
+  <version>1.0</version>
+  <vendor email="snaveen935@gamil.com" url="http://www.google.com">Linux Authority</vendor>
+
+  <description><![CDATA[
+      Your same beloved Darcula theme with Charcoal background.<br>
+
+    ]]></description>
+
+  <change-notes><![CDATA[
+      First build. <br>
+    ]]>
+  </change-notes>
+
+  <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+  <idea-version since-build="173.0"/>
+
+  <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+       on how to target different products -->
+  <depends>com.intellij.modules.platform</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <!-- Add your extensions here -->
+    <themeProvider id="c6da02f7-e8d0-4c95-aed3-09f364a54522" path="/DarculaBlack.theme.json"/>
+  </extensions>
+
+  <actions>
+    <!-- Add your actions here -->
+  </actions>
+
+</idea-plugin>

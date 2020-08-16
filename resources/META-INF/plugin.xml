@@ -2,7 +2,7 @@
   <id>com.linuxauthority.plugin.darcula.black</id>
   <name>Darcula-Black</name>
   <version>1.0</version>
-  <vendor email="snaveen935@gamil.com" url="http://www.google.com">Linux Authority</vendor>
+  <vendor email="snaveen935@gamil.com" url="https://github.com/Naveen3Singh/Darcula-Black">Linux Authority</vendor>
 
   <description><![CDATA[
       Your same beloved Darcula theme with Charcoal background.<br>
@@ -10,7 +10,8 @@
     ]]></description>
 
   <change-notes><![CDATA[
-      First build. <br>
+      First build.
+      Color used: #202020 <br>
     ]]>
   </change-notes>
 

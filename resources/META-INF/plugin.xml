@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>com.linuxauthority.plugin.darcula.black</id>
   <name>Darcula-Black</name>
-  <version>1.0</version>
+  <version>1.1</version>
   <vendor email="snaveen935@gamil.com" url="https://github.com/Naveen3Singh/Darcula-Black">Linux Authority</vendor>
 
   <description><![CDATA[
